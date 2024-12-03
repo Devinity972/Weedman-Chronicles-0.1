@@ -20,7 +20,11 @@
     {"name":"NiggaTronFloorNoBed","order":2,"path":"sprites/NiggaTronFloorNoBed/NiggaTronFloorNoBed.yy",},
     {"name":"Sprite2","order":16,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"Sprite4","order":17,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite5","order":18,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite6","order":19,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"GarbageBags","order":4,"path":"tilesets/GarbageBags/GarbageBags.yy",},
     {"name":"NiggaTronsRoomFLoor_1","order":1,"path":"tilesets/NiggaTronsRoomFLoor_1/NiggaTronsRoomFLoor_1.yy",},
+    {"name":"StairCase","order":5,"path":"tilesets/StairCase/StairCase.yy",},
     {"name":"TileSet3","order":3,"path":"tilesets/TileSet3/TileSet3.yy",},
   ],
 }
