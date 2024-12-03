@@ -39,6 +39,8 @@
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"GarbageBags","path":"tilesets/GarbageBags/GarbageBags.yy",},},
     {"id":{"name":"NiggaTronsRoomFLoor_1","path":"tilesets/NiggaTronsRoomFLoor_1/NiggaTronsRoomFLoor_1.yy",},},
     {"id":{"name":"NiggaTronsRoomFLoorBed","path":"tilesets/NiggaTronsRoomFLoorBed/NiggaTronsRoomFLoorBed.yy",},},
     {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},
