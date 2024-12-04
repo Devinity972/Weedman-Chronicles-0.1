@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Sprite7",
-    "path":"sprites/Sprite7/Sprite7.yy",
+    "name":"Dresser1",
+    "path":"sprites/Dresser1/Dresser1.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

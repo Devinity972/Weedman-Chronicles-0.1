@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Sprite5",
-    "path":"sprites/Sprite5/Sprite5.yy",
+    "name":"TrashBag1",
+    "path":"sprites/TrashBag1/TrashBag1.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

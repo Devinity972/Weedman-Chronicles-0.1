@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Sprite9",
+  "%Name":"PissJugg1",
   "bboxMode":0,
   "bbox_bottom":10,
   "bbox_left":21,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"ba2d75b9-a9a2-4f3c-9ea8-924d655b83b9","blendMode":0,"displayName":"default","isLocked":false,"name":"ba2d75b9-a9a2-4f3c-9ea8-924d655b83b9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sprite9",
+  "name":"PissJugg1",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Sprite9",
+    "%Name":"PissJugg1",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sprite9",
+    "name":"PissJugg1",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fede79f5-4a40-4f15-bb20-1e5a628c11b0","path":"sprites/Sprite9/Sprite9.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fede79f5-4a40-4f15-bb20-1e5a628c11b0","path":"sprites/PissJugg1/PissJugg1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"dc8086a1-39cb-4550-9eef-dbc48267c7a9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
