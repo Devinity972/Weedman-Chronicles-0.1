@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Bed1","path":"sprites/Bed1/Bed1.yy",},},
     {"id":{"name":"Bush","path":"sprites/Bush/Bush.yy",},},
     {"id":{"name":"Dresser1","path":"sprites/Dresser1/Dresser1.yy",},},
@@ -64,6 +65,7 @@
     {"id":{"name":"PissJugg","path":"tilesets/PissJugg/PissJugg.yy",},},
     {"id":{"name":"SideWalkTiles","path":"tilesets/SideWalkTiles/SideWalkTiles.yy",},},
     {"id":{"name":"StairCase","path":"tilesets/StairCase/StairCase.yy",},},
+    {"id":{"name":"tCol","path":"tilesets/tCol/tCol.yy",},},
     {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},
     {"id":{"name":"TileSet8","path":"tilesets/TileSet8/TileSet8.yy",},},
     {"id":{"name":"TreesTiles","path":"tilesets/TreesTiles/TreesTiles.yy",},},
@@ -72,6 +74,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[

@@ -1,9 +1,12 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Park","order":1,"path":"sprites/Park/Park.yy",},
+    {"name":"sCol","order":1,"path":"sprites/sCol/sCol.yy",},
     {"name":"SideWalk","order":3,"path":"sprites/SideWalk/SideWalk.yy",},
     {"name":"ParkTiles","order":5,"path":"tilesets/ParkTiles/ParkTiles.yy",},
     {"name":"SideWalkTiles","order":6,"path":"tilesets/SideWalkTiles/SideWalkTiles.yy",},
+    {"name":"tCol","order":7,"path":"tilesets/tCol/tCol.yy",},
   ],
 }
