@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"GarbageBags",
+  "%Name":"PissJugg",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"GarbageBags",
+  "name":"PissJugg",
   "out_columns":2,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"TrashBag1",
-    "path":"sprites/TrashBag1/TrashBag1.yy",
+    "name":"PissJugg1",
+    "path":"sprites/PissJugg1/PissJugg1.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

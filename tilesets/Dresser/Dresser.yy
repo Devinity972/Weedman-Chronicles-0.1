@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"GarbageBags",
+  "%Name":"Dresser",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"GarbageBags",
+  "name":"Dresser",
   "out_columns":2,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"TrashBag1",
-    "path":"sprites/TrashBag1/TrashBag1.yy",
+    "name":"Dresser1",
+    "path":"sprites/Dresser1/Dresser1.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
