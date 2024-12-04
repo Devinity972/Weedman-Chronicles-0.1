@@ -3,7 +3,10 @@
   "ResourceOrderSettings":[
     {"name":"Park","order":1,"path":"sprites/Park/Park.yy",},
     {"name":"SideWalk","order":3,"path":"sprites/SideWalk/SideWalk.yy",},
-    {"name":"ParkTiles","order":5,"path":"tilesets/ParkTiles/ParkTiles.yy",},
-    {"name":"SideWalkTiles","order":6,"path":"tilesets/SideWalkTiles/SideWalkTiles.yy",},
+    {"name":"BushTiles","order":4,"path":"tilesets/BushTiles/BushTiles.yy",},
+    {"name":"GrassTiles","order":5,"path":"tilesets/GrassTiles/GrassTiles.yy",},
+    {"name":"ParkTiles","order":6,"path":"tilesets/ParkTiles/ParkTiles.yy",},
+    {"name":"SideWalkTiles","order":7,"path":"tilesets/SideWalkTiles/SideWalkTiles.yy",},
+    {"name":"TreesTiles","order":8,"path":"tilesets/TreesTiles/TreesTiles.yy",},
   ],
 }
