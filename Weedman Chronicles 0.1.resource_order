@@ -39,6 +39,6 @@
     {"name":"StairCase","order":5,"path":"tilesets/StairCase/StairCase.yy",},
     {"name":"TileSet3","order":3,"path":"tilesets/TileSet3/TileSet3.yy",},
     {"name":"TileSet8","order":8,"path":"tilesets/TileSet8/TileSet8.yy",},
-    {"name":"TreeTiles","order":15,"path":"tilesets/TreeTiles/TreeTiles.yy",},
+    {"name":"TreesTiles","order":15,"path":"tilesets/TreesTiles/TreesTiles.yy",},
   ],
 }

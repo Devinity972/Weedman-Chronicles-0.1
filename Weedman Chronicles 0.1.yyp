@@ -61,7 +61,7 @@
     {"id":{"name":"StairCase","path":"tilesets/StairCase/StairCase.yy",},},
     {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},
     {"id":{"name":"TileSet8","path":"tilesets/TileSet8/TileSet8.yy",},},
-    {"id":{"name":"TreeTiles","path":"tilesets/TreeTiles/TreeTiles.yy",},},
+    {"id":{"name":"TreesTiles","path":"tilesets/TreesTiles/TreesTiles.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
