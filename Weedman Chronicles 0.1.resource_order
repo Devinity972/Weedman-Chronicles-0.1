@@ -2,6 +2,7 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"MACROS","order":1,"path":"scripts/MACROS/MACROS.yy",},
     {"name":"Park","order":1,"path":"sprites/Park/Park.yy",},
     {"name":"sCol","order":1,"path":"sprites/sCol/sCol.yy",},
     {"name":"SideWalk","order":3,"path":"sprites/SideWalk/SideWalk.yy",},

@@ -13,5 +13,4 @@ inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 hSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection);
 vSpeed = lengthdir_y(inputMagnitude * speedWalk, inputDirection);
 
-x += hSpeed;
-y += vSpeed;
+PlayerCollision();

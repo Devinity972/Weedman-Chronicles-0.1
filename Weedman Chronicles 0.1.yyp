@@ -37,6 +37,8 @@
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},},
+    {"id":{"name":"PlayerCollision","path":"scripts/PlayerCollision/PlayerCollision.yy",},},
     {"id":{"name":"Bed1","path":"sprites/Bed1/Bed1.yy",},},
     {"id":{"name":"Bush","path":"sprites/Bush/Bush.yy",},},
     {"id":{"name":"Dresser1","path":"sprites/Dresser1/Dresser1.yy",},},
