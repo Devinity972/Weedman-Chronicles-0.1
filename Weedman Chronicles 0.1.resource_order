@@ -6,8 +6,12 @@
     {"name":"Park","order":1,"path":"sprites/Park/Park.yy",},
     {"name":"sCol","order":1,"path":"sprites/sCol/sCol.yy",},
     {"name":"SideWalk","order":3,"path":"sprites/SideWalk/SideWalk.yy",},
+    {"name":"Sprite19","order":1,"path":"sprites/Sprite19/Sprite19.yy",},
+    {"name":"Sprite20","order":2,"path":"sprites/Sprite20/Sprite20.yy",},
+    {"name":"DirtyPlate","order":8,"path":"tilesets/DirtyPlate/DirtyPlate.yy",},
     {"name":"ParkTiles","order":5,"path":"tilesets/ParkTiles/ParkTiles.yy",},
     {"name":"SideWalkTiles","order":6,"path":"tilesets/SideWalkTiles/SideWalkTiles.yy",},
+    {"name":"Soda","order":9,"path":"tilesets/Soda/Soda.yy",},
     {"name":"tCol","order":7,"path":"tilesets/tCol/tCol.yy",},
   ],
 }
